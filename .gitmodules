@@ -2,3 +2,51 @@
 	path = design-themes
 	url = https://github.com/odoo/design-themes.git
 	branch = 15.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 15.0
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 15.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = git@github.com:OCA/bank-statement-import.git
+	branch = 15.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 15.0
+[submodule "project"]
+	path = project
+	url = git@github.com:OCA/project.git
+	branch = 15.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 15.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = git@github.com:OCA/vertical-association.git
+	branch = 15.0
+[submodule "website"]
+	path = website
+	url = git@github.com:OCA/website.git
+	branch = 15.0
+[submodule "addons-generic"]
+	path = addons-generic
+	url = git@github.com:onesteinbv/addons-generic.git
+	branch = 15.0
+[submodule "addons-pre-oca"]
+	path = addons-pre-oca
+	url = git@github.com:onesteinbv/addons-pre-oca.git
+	branch = 15.0
+[submodule "addons-third-party"]
+	path = addons-third-party
+	url = git@github.com:onesteinbv/addons-third-party.git
+	branch = 15.0
+[submodule "15-backport-web_help"]
+	path = 15-backport-web_help
+	url = git@github.com:tarteo/web.git
+	branch = 15-backport-web_help
